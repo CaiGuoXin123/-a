@@ -1,0 +1,6 @@
+F:\vs全部内容\Zhi\Zhi\bin\Debug\Zhi.exe.config
+F:\vs全部内容\Zhi\Zhi\bin\Debug\Zhi.exe
+F:\vs全部内容\Zhi\Zhi\bin\Debug\Zhi.pdb
+F:\vs全部内容\Zhi\Zhi\obj\Debug\Day01_0100.csprojResolveAssemblyReference.cache
+F:\vs全部内容\Zhi\Zhi\obj\Debug\Zhi.exe
+F:\vs全部内容\Zhi\Zhi\obj\Debug\Zhi.pdb

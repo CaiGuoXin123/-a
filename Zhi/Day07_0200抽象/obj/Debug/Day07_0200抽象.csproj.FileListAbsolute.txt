@@ -1,0 +1,5 @@
+F:\vs全部内容\Zhi\Day07_0200抽象\bin\Debug\Day07_0200抽象.exe.config
+F:\vs全部内容\Zhi\Day07_0200抽象\bin\Debug\Day07_0200抽象.exe
+F:\vs全部内容\Zhi\Day07_0200抽象\bin\Debug\Day07_0200抽象.pdb
+F:\vs全部内容\Zhi\Day07_0200抽象\obj\Debug\Day07_0200抽象.exe
+F:\vs全部内容\Zhi\Day07_0200抽象\obj\Debug\Day07_0200抽象.pdb

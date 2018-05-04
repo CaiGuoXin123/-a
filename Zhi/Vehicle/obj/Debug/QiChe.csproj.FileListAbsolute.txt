@@ -1,0 +1,5 @@
+F:\vs全部内容\Zhi\Vehicle\bin\Debug\Vehicle.exe.config
+F:\vs全部内容\Zhi\Vehicle\bin\Debug\Vehicle.exe
+F:\vs全部内容\Zhi\Vehicle\bin\Debug\Vehicle.pdb
+F:\vs全部内容\Zhi\Vehicle\obj\Debug\Vehicle.exe
+F:\vs全部内容\Zhi\Vehicle\obj\Debug\Vehicle.pdb

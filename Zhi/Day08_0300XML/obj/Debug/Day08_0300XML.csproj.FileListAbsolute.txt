@@ -1,0 +1,5 @@
+F:\vs全部内容\Zhi\Day08_0300XML\bin\Debug\Day08_0300XML.exe.config
+F:\vs全部内容\Zhi\Day08_0300XML\bin\Debug\Day08_0300XML.exe
+F:\vs全部内容\Zhi\Day08_0300XML\bin\Debug\Day08_0300XML.pdb
+F:\vs全部内容\Zhi\Day08_0300XML\obj\Debug\Day08_0300XML.exe
+F:\vs全部内容\Zhi\Day08_0300XML\obj\Debug\Day08_0300XML.pdb

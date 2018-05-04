@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<books > 
+  <book id="001">
+    <bookName>大话西游</bookName>
+    <bookPrice>100 </bookPrice>
+    <bookAuthor>周星星</bookAuthor>
+    </book>
+  <book id="002">
+    <bookName>西游记</bookName>
+    <bookPrice>100 </bookPrice>
+    <bookAuthor>星星</bookAuthor>
+  </book>
+  <book id="003">
+    <bookName>西游记之女儿国</bookName>
+    <bookPrice>100 </bookPrice>
+    <bookAuthor>亮晶晶</bookAuthor>
+  </book>
+  
+  </books>

@@ -1,0 +1,11 @@
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\bin\Debug\FrmMoShou0.exe.config
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\bin\Debug\FrmMoShou0.exe
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\bin\Debug\FrmMoShou0.pdb
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.csprojResolveAssemblyReference.cache
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.FrmLogin.resources
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.FrmMain.resources
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.FrmRegist.resources
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.Properties.Resources.resources
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.csproj.GenerateResource.Cache
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.exe
+F:\vs全部内容\FrmMoShou0\FrmMoShou0\obj\Debug\FrmMoShou0.pdb

@@ -1,0 +1,10 @@
+F:\vs全部内容\YuanGong\YuanGong\bin\Debug\YuanGong.exe.config
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.csprojResolveAssemblyReference.cache
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.FrmXinXi.resources
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.FrmXinZeng.resources
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.Properties.Resources.resources
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.csproj.GenerateResource.Cache
+F:\vs全部内容\YuanGong\YuanGong\bin\Debug\YuanGong.exe
+F:\vs全部内容\YuanGong\YuanGong\bin\Debug\YuanGong.pdb
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.exe
+F:\vs全部内容\YuanGong\YuanGong\obj\Debug\YuanGong.pdb

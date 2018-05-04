@@ -1,0 +1,15 @@
+F:\vs全部内容\frm\frm\bin\Debug\frm.exe.config
+F:\vs全部内容\frm\frm\bin\Debug\frm.exe
+F:\vs全部内容\frm\frm\bin\Debug\frm.pdb
+F:\vs全部内容\frm\frm\obj\Debug\frm.csprojResolveAssemblyReference.cache
+F:\vs全部内容\frm\frm\obj\Debug\frm.Form1.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.Properties.Resources.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.csproj.GenerateResource.Cache
+F:\vs全部内容\frm\frm\obj\Debug\frm.exe
+F:\vs全部内容\frm\frm\obj\Debug\frm.pdb
+F:\vs全部内容\frm\frm\obj\Debug\frm.frmAddItem.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.Form2.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.Frm4.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.FrmStudent.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.FrmAdminMin.resources
+F:\vs全部内容\frm\frm\obj\Debug\frm.Frming.resources

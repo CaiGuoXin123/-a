@@ -1,0 +1,5 @@
+F:\vs全部内容\Zhi\Day02_0500\bin\Debug\Day02_0500.exe.config
+F:\vs全部内容\Zhi\Day02_0500\bin\Debug\Day02_0500.exe
+F:\vs全部内容\Zhi\Day02_0500\bin\Debug\Day02_0500.pdb
+F:\vs全部内容\Zhi\Day02_0500\obj\Debug\Day02_0500.exe
+F:\vs全部内容\Zhi\Day02_0500\obj\Debug\Day02_0500.pdb

@@ -1,0 +1,2 @@
+F:\vs全部内容\Zhi\Day06_0200\bin\Debug\Day06_0200.exe.config
+F:\vs全部内容\Zhi\Day06_0200\obj\Debug\Day06_0200.csprojResolveAssemblyReference.cache
